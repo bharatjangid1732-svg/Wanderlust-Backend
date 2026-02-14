@@ -1,2 +1,2 @@
-# Wanderlust-Backend
+# Wanderlust
 My Wanderlust Project
